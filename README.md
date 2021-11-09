@@ -1,5 +1,5 @@
 # vue-template
-## This doesn't working due to packages not support Vue3 and Webpack5
+### This template won't work due to packages not support Vue3 and Webpack5
 ### Frontend development (static elements only)
 ```sh
 npm run serve # Compiles and hot-reloads for development
